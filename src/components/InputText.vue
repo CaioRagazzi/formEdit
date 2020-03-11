@@ -1,5 +1,5 @@
 <template>
-  <button>Oi</button>
+  <input type="text">
 </template>
 
 <script>
